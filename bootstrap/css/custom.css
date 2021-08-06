@@ -1,0 +1,9 @@
+/* Bootstrap table header align to center*/
+.table > thead > tr > th {
+    text-align: center;
+    background-color:lightcyan;
+}
+
+.panel-heading {
+    text-align: center;
+}
